@@ -2,7 +2,7 @@
 Automated Secure Linux Bastion Host with Centralized Logging
 # Automated Secure Linux Bastion Host with Centralized Logging
 
-## Project Overview
+##Project Overview
 This project demonstrates the setup of a secure Linux Bastion Host integrated with a centralized logging server using RHEL 9 virtual machines.
 
 The environment was created using VMware Workstation with two RHEL 9 servers:
@@ -19,7 +19,7 @@ The project focuses on:
 
 ---
 
-## Technologies Used
+##Technologies Used
 - RHEL 9
 - VMware Workstation
 - OpenSSH
@@ -30,13 +30,13 @@ The project focuses on:
 
 ---
 
-## Project Architecture
+##Project Architecture
 
 Client Machine → Bastion Host → Log Server
 
 ---
 
-## Features Implemented
+##Features Implemented
 - SSH hardening
 - Passwordless SSH login
 - Centralized log forwarding
@@ -46,7 +46,7 @@ Client Machine → Bastion Host → Log Server
 
 ---
 
-## Skills Learned
+##Skills Learned
 - Linux Administration
 - SSH Configuration
 - rsyslog Configuration
@@ -56,7 +56,7 @@ Client Machine → Bastion Host → Log Server
 
 ---
 
-## Future Improvements
+##Future Improvements
 - Add Ansible automation
 - Add monitoring tools
 - Add firewall hardening
